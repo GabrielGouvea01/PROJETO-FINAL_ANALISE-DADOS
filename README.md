@@ -34,6 +34,9 @@ O fluxo do projeto é simples:
 O projeto foi construído com:
 
 - Python
+- Lovable
+- -Render
+- Postman
 - Flask: para criar a API web
 - Flask-CORS: para permitir comunicação entre diferentes origens
 - Pandas: para manipular e processar os dados
